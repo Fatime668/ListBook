@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\ListApp\ListApp\bin\Debug\netcoreapp3.1\ListApp.exe
+C:\Users\user\source\repos\ListApp\ListApp\bin\Debug\netcoreapp3.1\ListApp.deps.json
+C:\Users\user\source\repos\ListApp\ListApp\bin\Debug\netcoreapp3.1\ListApp.runtimeconfig.json
+C:\Users\user\source\repos\ListApp\ListApp\bin\Debug\netcoreapp3.1\ListApp.runtimeconfig.dev.json
+C:\Users\user\source\repos\ListApp\ListApp\bin\Debug\netcoreapp3.1\ListApp.dll
+C:\Users\user\source\repos\ListApp\ListApp\bin\Debug\netcoreapp3.1\ListApp.pdb
+C:\Users\user\source\repos\ListApp\ListApp\obj\Debug\netcoreapp3.1\ListApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ListApp\ListApp\obj\Debug\netcoreapp3.1\ListApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ListApp\ListApp\obj\Debug\netcoreapp3.1\ListApp.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ListApp\ListApp\obj\Debug\netcoreapp3.1\ListApp.AssemblyInfo.cs
+C:\Users\user\source\repos\ListApp\ListApp\obj\Debug\netcoreapp3.1\ListApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ListApp\ListApp\obj\Debug\netcoreapp3.1\ListApp.dll
+C:\Users\user\source\repos\ListApp\ListApp\obj\Debug\netcoreapp3.1\ListApp.pdb
+C:\Users\user\source\repos\ListApp\ListApp\obj\Debug\netcoreapp3.1\ListApp.genruntimeconfig.cache
